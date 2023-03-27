@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Tab(icon: Icon(Icons.screen_lock_rotation_sharp)),
             ],
           ),
-          title: Text('Tabs Demo'),
+          title: Text('Tab Ivan Flores'),
         ),
         body: TabBarView(
           children: [
